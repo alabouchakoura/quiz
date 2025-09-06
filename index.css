@@ -91,3 +91,6 @@ pointer-events: none;
 background-color: inherit;
 color: inherit;
 }
+#score{
+    font-weight: bold;
+}
